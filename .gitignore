@@ -13,5 +13,4 @@
 *.meta
 
 __pycache__/
-data/
 .idea/
